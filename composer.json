@@ -1,0 +1,18 @@
+{
+	"name": "bckp/webloader-minifycss",
+	"description": "Css minify filter",
+	"keywords": ["css", "minify", "webloader", "nette"],
+	"homepage": "https://github.com/bckp/webloader-minifycss",
+	"authors": [
+		{
+			"name": "Radovan Kepák",
+			"homepage": "http://www.kepak.eu"
+		}
+	],
+	"require": {
+		"php": ">=7.1.0"
+	},
+	"autoload": {
+		"classmap": ["src/"]
+	}
+}
